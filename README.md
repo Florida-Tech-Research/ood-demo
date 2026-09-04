@@ -57,7 +57,7 @@ are under `/shared/workshops/ood_jupyter`:
 | `models/safety-checker/` | Stable Diffusion safety checker |
 | `samples/` | Reference images generated during staging |
 
-Generation takes about 0.07 seconds per image and peaks around 3.3 GB of the 12 GB of VRAM,
+Generation takes about 0.08 seconds per image and peaks around 3.9 GB of the 12 GB of VRAM,
 so there is plenty of room left over.
 
 ## Capacity
